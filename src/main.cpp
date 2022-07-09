@@ -17,9 +17,8 @@ void rootPage() {
     "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
     "</head>"
     "<body>"
-    "<h2 align=\"center\" style=\"color:blue;margin:20px;\">Hello, world</h2>"
-    "<h3 align=\"center\" style=\"color:gray;margin:10px;\">{{DateTime}}</h3>"
-    "<p style=\"text-align:center;\">Reload the page to update the time.</p>"
+    "<h2 align=\"center\" style=\"color:blue;margin:20px;\">Hallo Welt</h2>"
+    "<p style=\"text-align:center;\">esp32 Wifi Autoconnect</p>"
     "<p></p><p style=\"padding-top:15px;text-align:center\">" AUTOCONNECT_LINK(COG_24) "</p>"
     "</body>"
     "</html>";
